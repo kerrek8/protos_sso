@@ -1,4 +1,4 @@
-module github.com/kerrek8/protos_sso
+module github.com/kerrek8/protos_sso1
 
 go 1.21
 
